@@ -1,0 +1,9 @@
+.book {
+    border: 1px solid #ccc;
+    width: 300px;
+    min-height: 68px;
+    padding: 10px;
+    display: flex;
+    line-height: 18px;
+    margin-bottom: 10px;
+  }
